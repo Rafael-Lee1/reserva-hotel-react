@@ -22,4 +22,4 @@ O objetivo principal deste aplicativo é fornecer uma maneira fácil e eficaz pa
 Observação:
 
 Este é apenas um resumo básico do aplicativo com base no código fornecido. Dependendo dos requisitos específicos e das funcionalidades adicionais que você deseja implementar, a descrição e o funcionamento do aplicativo podem ser mais detalhados.
->>>>>>> 153a98660c3764694fbb865e03f30cd902218afb
+
